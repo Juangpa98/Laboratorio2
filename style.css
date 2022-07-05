@@ -36,6 +36,11 @@ span{
 }
 
 .contact{
-    text-align: right;
+    text-align: center;
+    color: white;
+}
+
+.principal{
+    text-align: end;
     color: white;
 }
