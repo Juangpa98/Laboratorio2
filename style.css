@@ -1,15 +1,25 @@
 body{
-    background-color:rgb(139, 141, 142)
+    background-color:rgb(139, 141, 142);
 }
 
 header{
-    background-color:rgb(16, 4, 111)
+    background-color:rgb(16, 4, 111);
 }
 
 div{
-    background-color:rgb(240, 240, 246)
+    background-color:rgb(240, 240, 246);
+    color: rgb(10, 95, 3); 
+    font-style: italic;
 }
 
-p{
+img{
+    float:left;
+}
 
+h1{
+    text-align: center;
+}
+
+span{
+    color: #00a3e8;
 }
