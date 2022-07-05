@@ -1,5 +1,8 @@
 body{
     background-color:rgb(139, 141, 142);
+    border-color: rgb(111, 111, 245);
+    border-width: .5cm;
+    border-style: dotted;
 }
 
 header{
