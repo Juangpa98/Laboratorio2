@@ -23,7 +23,7 @@ h1{
 
 h2{
     font-weight: bold;
-    margin-left: 3cm;
+    margin-left: 1.5cm;
 }
 
 h3{
@@ -41,6 +41,6 @@ span{
 }
 
 .principal{
-    text-align: end;
+    text-align: right;
     color: white;
 }
